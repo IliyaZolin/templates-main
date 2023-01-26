@@ -1,0 +1,46 @@
+<div id="modal-container" class="uk-modal-container" uk-modal>
+    
+	<div class="uk-modal-dialog uk-modal-body">
+
+		<button class="uk-modal-close-outside" type="button" uk-close></button>
+
+		  <h2 class="uk-modal-title uk-text-center">Корзина</h2>
+		  
+			<div class='uk-grid uk-grid-collapse uk-child-width-expand' uk-grid>
+				<div style="background: #265c80;color: #fff;padding: 10px;font-size: 16px;" class='uk-margin-small-top uk-margin-small-bottom uk-width-2-5'>Название</div>
+				<div style="background: #265c80;color: #fff;padding: 10px;font-size: 16px;" class='uk-margin-small-top uk-margin-small-bottom uk-width-medium'>Биоматериал</div>
+				<div style="background: #265c80;color: #fff;padding: 10px;font-size: 16px;" class='uk-margin-small-top uk-margin-small-bottom '>Срок</div>
+				<div style="background: #265c80;color: #fff;padding: 10px;font-size: 16px;" class='uk-margin-small-top uk-margin-small-bottom '>Цена</div>
+				<div style="background: #265c80;color: #fff;padding: 10px;font-size: 16px;" class='uk-margin-small-top uk-margin-small-bottom '></div>
+			</div>
+
+			<div class="modal__new_element">
+
+				<div class='uk-grid uk-grid-collapse uk-child-width-expand' uk-grid>
+					<div class='uk-width-1-1'>
+						<div class='uk-grid uk-grid-matrch uk-child-width-expand' uk-grid>
+							<div class='uk-width-2-5'>Мелатонин в слюне</div>
+							<div class='uk-width-medium'>
+							<select name="blood" id="blood" class="sz-selec__style">
+								<option value="">Кровь (сыворотка)</option>
+							</select>
+							</div>
+							<div class=''>1 день</div>
+							<div class=''>6000 рую.</div>
+							<div class=''></div>
+						</div>
+					</div>
+				</div>
+			
+			</div>
+			
+
+		  <div class='uk-margin-medium-top'>
+				<a href="/preorder/" class='uk-button'>Перейти к оформлению</a>
+		  </div>
+        
+    </div>
+
+		123
+
+</div>
